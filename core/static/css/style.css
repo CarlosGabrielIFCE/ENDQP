@@ -447,7 +447,7 @@ body{
 .team-caption ul li a i.fa.fa-facebook:hover {
     background: #3b5998;
 }
-.team-caption ul li a i.fa.fa-twitter{
+.team-caption ul li a i.fa.fa-instagram{
     height: 30px;
     width: 30px;
     line-height: 30px;
@@ -460,7 +460,7 @@ body{
     -o-transition: 0.5s all;
     -ms-transition: 0.5s all;
 }
-.team-caption ul li a i.fa.fa-twitter:hover{
+.team-caption ul li a i.fa.fa-instagram:hover{
 	background: #55acee;
 }
 .team-caption ul li a i.fa.fa-rss{
